@@ -48,4 +48,4 @@ Interactive Slicers: Allow filtering by campaign name and campaign type
 
 📊 Enables faster reporting and strategic campaign planning using real-time data
 
-[#Dashboard preview] 
+[#Dashboard preview] (https://github.com/Arpita0797/Campaign-Performance-Monitor-Dashboard/blob/main/Screeshot%20of%20Campaign%20Performance%20Dashboard.png)
