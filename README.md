@@ -1,5 +1,6 @@
 # Campaign-Performance-Monitor-Dashboard
 📁 Project: Campaign Performance Monitor Dashboard 
+
 📝 Short Description / Purpose
 An interactive Power BI dashboard developed to track and evaluate the performance of advertising campaigns using essential KPIs. It enables marketing teams to assess ROI, control budget, and optimize campaign strategies based on data insights.
 
@@ -10,10 +11,12 @@ DAX (Data Analysis Expressions) – for dynamic calculations such as ROI, ROAS, 
 
 Power Query (M) – for data cleaning, transformation, and preparation
 
+
 📦 Data Source
 Provided as part of a test assignment for a Data Analyst internship
 
 Contains campaign-level performance metrics: spend, impressions, clicks, revenue, orders, targeting type (manual/automatic), and campaign attributes
+
 
 ✨ Features & Highlights
 🔍 Business Problem
@@ -47,5 +50,6 @@ Interactive Slicers: Allow filtering by campaign name and campaign type
 💸 Helps marketing teams optimize ad spend and improve targeting strategy
 
 📊 Enables faster reporting and strategic campaign planning using real-time data
+
 
 [#Dashboard preview] (https://github.com/Arpita0797/Campaign-Performance-Monitor-Dashboard/blob/main/Screeshot%20of%20Campaign%20Performance%20Dashboard.png)
